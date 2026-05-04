@@ -135,10 +135,16 @@ http://localhost:8080 → URL pública (ngrok)
   <img src="demo/demo/src/imagens/Fluxo_Webhooks_HTTP.png" width="250"/>
   </p>
 
-* Fluxo Atendimento e Cadastro oelo Typebot
+* Fluxo Atendimento e Cadastro pelo Typebot
 <p align="center">
   <img src="demo/demo/src/imagens/Fluxo-TypeBot.jpg" width="250"/>
   </p>
+
+* Fluxo de Desenvolvimento no Miro
+<p align="center">
+  <img src="demo/demo/src/imagens/Ana-Otica-Boards.jpg" width="250"/>
+  </p>
+
 ---
 
 ## 🧠 Decisões de Arquitetura
