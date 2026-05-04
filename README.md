@@ -162,6 +162,6 @@ http://localhost:8080 → URL pública (ngrok)
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por Eliakim Abner como prática de integração full stack.
+Projeto desenvolvido por Eliakim Abner como prática em Desenvovimento Mobile.
 
 ---
