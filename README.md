@@ -124,19 +124,21 @@ http://localhost:8080 → URL pública (ngrok)
 
 * App exibindo lista
 <p align="center">
-  <img src="src/imagens/expo-app.jpg" width="250"/>
-  <img src="src/imagens/app-orcamento.jpg" width="250"/>
-  <img src="src/imagens/lista-app.jpg" width="250">
+  <img src="demo/demo/src/imagens/expo-app.jpg" width="250"/>
+  <img src="demo/demo/src/imagens/app-orcamento.jpg" width="250"/>
+  <img src="demo/demo/src/imagens/lista-app.jpg" width="250">
 </p>
 
 
 * Fluxo no Make
 <p align="center">
-  <img src="src/imagens/Fluxo_Webhooks_HTTP.png" width="250"/>
+  <img src="demo/demo/src/imagens/Fluxo_Webhooks_HTTP.png" width="250"/>
   </p>
 
-* Recebimento de dados
-
+* Fluxo Atendimento e Cadastro oelo Typebot
+<p align="center">
+  <img src="demo/demo/src/imagens/Fluxo-TypeBot.jpg" width="250"/>
+  </p>
 ---
 
 ## 🧠 Decisões de Arquitetura
